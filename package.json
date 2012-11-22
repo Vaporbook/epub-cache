@@ -1,17 +1,18 @@
 {
   "name": "epub-cache",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Creates web-friendly caches of browser-friendly content from Epub files",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "node test/test.js test/testfile.epub"
+    "test": "node test/test.js test/testbook.epub"
   },
   "repository": "",
   "dependencies": {
-    "epub2html": ">=0.0.1"
+    "epub-parser": ">=0.2.0",
+    "epub2html": ">=0.0.6"
   },
   "author": "vaporbook",
   "license": "BSD",

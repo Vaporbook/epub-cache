@@ -13,6 +13,9 @@ cacher.init({
 
 });
 
+console.log('clearing cache...');
+
+cacher.clear();
 
 // 2. cache epub contents and get a cache id back
 
