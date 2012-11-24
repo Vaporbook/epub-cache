@@ -1,6 +1,6 @@
 {
   "name": "epub-cache",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Creates web-friendly caches of browser-friendly content from Epub files",
   "main": "index.js",
   "directories": {
