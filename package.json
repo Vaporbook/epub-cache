@@ -1,6 +1,6 @@
 {
   "name": "epub-cache",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Creates web-friendly caches of browser-friendly content from Epub files",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": "",
   "dependencies": {
-    "epub-parser": ">=0.2.3",
+    "epub-parser": ">=0.2.4",
     "epub2html": ">=0.0.9"
   },
   "author": "vaporbook",
